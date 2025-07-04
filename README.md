@@ -14,7 +14,7 @@ This project is an integrated attendance and departure tracking system using fin
 
 *Description: Main interface showing employee attendance records.*
 
-![Attendance System](assets/Attendance and Departure.PNG)
+![Attendance System](assets/Attendance_and_Departure.PNG)
 
 ### 2.Export Data to Excel:
 The system includes a button that allows exporting attendance data to an Excel file. The information is organized based on check-in or check-out status, and the user can choose a specific time period (day, week, or month). This feature facilitates efficient analysis and tracking of employee attendance.
@@ -26,7 +26,7 @@ The system includes a button that allows exporting attendance data to an Excel f
 
 *Description: Simulator interface for testing fingerprint devices.*
 
-![Fingerprint Simulator](assets/Fingerprint Device Simulator.PNG)
+![Fingerprint Simulator](assets/Fingerprint_Device_Simulator.PNG)
 
 
 
@@ -52,6 +52,6 @@ CREATE TABLE **attendance** (
 
 
 
-![Fingerprint Simulator](/base_de_donne.PNG)
+![Fingerprint Simulator](assets/base_de_donne.PNG)
 
 
