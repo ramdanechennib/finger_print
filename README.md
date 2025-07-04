@@ -54,4 +54,14 @@ CREATE TABLE **attendance** (
 
 ![Fingerprint Simulator](assets/base_de_donne.PNG)
 
+## 5.How to Run
+
+To run the attendance recorder and fingerprint simulator programs, use the following commands in the terminal after navigating to the project folder:
+
+```bash
+python attendance_recorder.py
+python fingerprint_simulator.py
+```
+If you encounter any issues or errors, please feel free to contact me at **ramdanchennib@gmail.com**.
+
 
